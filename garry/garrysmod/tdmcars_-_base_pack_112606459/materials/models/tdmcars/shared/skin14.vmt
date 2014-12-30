@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexturetransform" "center .5 .5 scale 12 12 rotate 0 translate 0 0"
+	"$basetexture" "models/tdmcars/shared/wood"
+	"$bumpmap"    "models/tdmcars/shared/wood_nrm"
+	"$nodecal" "1"
+	"$phong" "1" 
+	"$phongboost" "2" 
+	"$phongfresnelranges" "[.3 .5 1]" 
+	"$phongexponent" 10
+}

@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/tdmcars/shared/light_white"
+	"$nodecal" "1"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

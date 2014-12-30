@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexturetransform" "center .5 .5 scale 320 320 rotate 0 translate 0 0"
+	"$basetexture" "models/tdmcars/shared/carbonFiber"
+	"$bumpmap" "models/tdmcars/shared/carbonFiberNormal"
+	"$nodecal" 1
+	"$phong" 1
+	"$phongexponent" 20
+	"$phongfresnelranges"	"[1 1 1]"
+	"$phongboost"	1
+}
